@@ -1,0 +1,610 @@
+2020-04-10 22:12:32,435 [main] INFO inetBanking - URL is open
+2020-04-10 22:12:32,566 [main] INFO inetBanking - Entered Username
+2020-04-10 22:12:32,657 [main] INFO inetBanking - Entered Password
+2020-04-10 22:12:34,907 [main] INFO inetBanking - Clicked on submit button
+2020-04-10 22:12:34,917 [main] INFO inetBanking - Login Test Passed
+2020-04-10 22:50:26,796 [main] INFO inetBanking - URL is open
+2020-04-10 22:50:26,933 [main] INFO inetBanking - Entered Username
+2020-04-10 22:50:27,024 [main] INFO inetBanking - Entered Password
+2020-04-10 22:50:29,535 [main] INFO inetBanking - Clicked on submit button
+2020-04-10 22:50:29,547 [main] INFO inetBanking - Login Test Passed
+2020-04-10 22:51:22,949 [main] INFO inetBanking - URL is open
+2020-04-10 22:51:23,099 [main] INFO inetBanking - Entered Username
+2020-04-10 22:51:23,184 [main] INFO inetBanking - Entered Password
+2020-04-10 22:51:25,571 [main] INFO inetBanking - Clicked on submit button
+2020-04-11 09:49:27,363 [main] INFO inetBanking - URL is open
+2020-04-11 09:49:27,541 [main] INFO inetBanking - Entered Username
+2020-04-11 09:49:27,667 [main] INFO inetBanking - Entered Password
+2020-04-11 09:49:30,732 [main] INFO inetBanking - Clicked on submit button
+2020-04-11 09:49:30,746 [main] INFO inetBanking - Login Test Passed
+2020-04-11 18:58:12,050 [main] INFO inetBanking - URL is open
+2020-04-11 18:58:12,204 [main] INFO inetBanking - Entered Username
+2020-04-11 18:58:12,298 [main] INFO inetBanking - Entered Password
+2020-04-11 18:58:14,395 [main] INFO inetBanking - Clicked on submit button
+2020-04-11 18:58:14,409 [main] INFO inetBanking - Login Test Passed
+2020-04-11 19:34:56,056 [main] INFO inetBanking - URL is open
+2020-04-11 19:34:56,194 [main] INFO inetBanking - Entered Username
+2020-04-11 19:34:56,287 [main] INFO inetBanking - Entered Password
+2020-04-11 19:34:58,638 [main] INFO inetBanking - Clicked on submit button
+2020-04-11 19:34:58,648 [main] INFO inetBanking - Login Test Passed
+2020-04-11 20:27:04,346 [main] INFO inetBanking - URL is open
+2020-04-11 20:27:04,486 [main] INFO inetBanking - Entered Username
+2020-04-11 20:27:04,573 [main] INFO inetBanking - Entered Password
+2020-04-11 20:27:20,046 [main] INFO inetBanking - Clicked on submit button
+2020-04-11 20:27:20,058 [main] INFO inetBanking - Login Test Passed
+2020-04-11 20:43:03,914 [main] INFO inetBanking - URL is open
+2020-04-11 20:43:04,052 [main] INFO inetBanking - Entered Username
+2020-04-11 20:43:04,142 [main] INFO inetBanking - Entered Password
+2020-04-11 20:43:07,565 [main] INFO inetBanking - Clicked on submit button
+2020-04-11 20:43:07,574 [main] INFO inetBanking - Login Test Passed
+2020-04-11 21:42:42,713 [main] INFO inetBanking - URL is open
+2020-04-11 21:42:53,798 [main] INFO inetBanking - Entered Username
+2020-04-11 21:42:53,888 [main] INFO inetBanking - Entered Password
+2020-04-11 21:42:56,309 [main] INFO inetBanking - Clicked on submit button
+2020-04-11 21:42:56,318 [main] INFO inetBanking - Login Test Passed
+2020-04-11 21:43:32,366 [main] INFO inetBanking - URL is open
+2020-04-11 21:44:06,321 [main] INFO inetBanking - Entered Username
+2020-04-11 21:44:06,348 [main] INFO inetBanking - Entered Password
+2020-04-11 21:44:14,850 [main] INFO inetBanking - Clicked on submit button
+2020-04-11 21:44:14,856 [main] INFO inetBanking - Login Test Passed
+2020-04-11 22:06:19,742 [main] INFO inetBanking - URL is open
+2020-04-11 22:06:59,097 [main] INFO inetBanking - Entered Username
+2020-04-11 22:06:59,128 [main] INFO inetBanking - Entered Password
+2020-04-11 22:07:05,942 [main] INFO inetBanking - Clicked on submit button
+2020-04-11 22:07:05,952 [main] INFO inetBanking - Login Test Passed
+2020-04-11 22:07:21,018 [main] INFO inetBanking - URL is open
+2020-04-11 22:07:33,818 [main] INFO inetBanking - Entered Username
+2020-04-11 22:07:33,901 [main] INFO inetBanking - Entered Password
+2020-04-11 22:07:37,020 [main] INFO inetBanking - Clicked on submit button
+2020-04-11 22:07:37,036 [main] INFO inetBanking - Login Test Passed
+2020-04-12 08:45:30,814 [main] INFO inetBanking - URL is open
+2020-04-12 08:45:49,484 [main] INFO inetBanking - Entered Username
+2020-04-12 08:45:49,517 [main] INFO inetBanking - Entered Password
+2020-04-12 08:45:59,943 [main] INFO inetBanking - Clicked on submit button
+2020-04-12 08:45:59,950 [main] INFO inetBanking - Login Test Passed
+2020-04-12 08:46:11,287 [main] INFO inetBanking - URL is open
+2020-04-12 08:46:16,754 [main] INFO inetBanking - Entered Username
+2020-04-12 08:46:16,841 [main] INFO inetBanking - Entered Password
+2020-04-12 08:46:19,248 [main] INFO inetBanking - Clicked on submit button
+2020-04-12 08:46:19,253 [main] INFO inetBanking - Login Test Passed
+2020-04-12 09:10:11,181 [main] INFO inetBanking - URL is opening
+2020-04-12 09:10:18,799 [main] INFO inetBanking - Entered Username
+2020-04-12 09:10:18,885 [main] INFO inetBanking - Entered Password
+2020-04-12 09:10:21,062 [main] INFO inetBanking - Clicked on submit button
+2020-04-12 09:10:21,070 [main] INFO inetBanking - Login Test Passed
+2020-04-12 09:12:52,695 [main] INFO inetBanking - URL is opening
+2020-04-12 09:12:59,969 [main] INFO inetBanking - Entered Username
+2020-04-12 09:13:00,053 [main] INFO inetBanking - Entered Password
+2020-04-12 09:13:02,638 [main] INFO inetBanking - Clicked on submit button
+2020-04-12 09:13:02,648 [main] INFO inetBanking - Login Test Passed
+2020-04-12 09:13:08,395 [main] INFO inetBanking - URL is opening
+2020-04-12 09:13:22,389 [main] INFO inetBanking - Entered Username
+2020-04-12 09:13:22,420 [main] INFO inetBanking - Entered Password
+2020-04-12 09:13:36,606 [main] INFO inetBanking - Clicked on submit button
+2020-04-12 09:13:36,613 [main] INFO inetBanking - Login Test Passed
+2020-04-12 14:29:12,834 [main] INFO inetBanking - URL is opening
+2020-04-12 14:29:30,222 [main] INFO inetBanking - Entered Username
+2020-04-12 14:29:30,312 [main] INFO inetBanking - Entered Password
+2020-04-12 14:29:33,201 [main] INFO inetBanking - Clicked on submit button
+2020-04-12 14:29:33,211 [main] INFO inetBanking - Login Test Passed
+2020-04-12 14:29:39,576 [main] INFO inetBanking - URL is opening
+2020-04-12 14:29:57,447 [main] INFO inetBanking - Entered Username
+2020-04-12 14:29:57,483 [main] INFO inetBanking - Entered Password
+2020-04-12 14:30:03,569 [main] INFO inetBanking - Clicked on submit button
+2020-04-12 14:30:03,576 [main] INFO inetBanking - Login Test Passed
+2020-04-12 14:36:08,753 [main] INFO inetBanking - URL is opening
+2020-04-12 14:36:19,801 [main] INFO inetBanking - Entered Username
+2020-04-12 14:36:19,890 [main] INFO inetBanking - Entered Password
+2020-04-12 14:36:22,380 [main] INFO inetBanking - Clicked on submit button
+2020-04-12 14:38:34,231 [main] INFO inetBanking - URL is opening
+2020-04-12 14:38:44,252 [main] INFO inetBanking - Entered Username
+2020-04-12 14:38:44,338 [main] INFO inetBanking - Entered Password
+2020-04-12 14:38:46,721 [main] INFO inetBanking - Clicked on submit button
+2020-04-12 14:41:05,934 [main] INFO inetBanking - URL is opening
+2020-04-12 14:41:14,528 [main] INFO inetBanking - Entered Username
+2020-04-12 14:41:14,624 [main] INFO inetBanking - Entered Password
+2020-04-12 14:41:16,694 [main] INFO inetBanking - Clicked on submit button
+2020-04-12 14:41:16,701 [main] INFO inetBanking - Login Test failed
+2020-04-12 14:41:16,701 [main] INFO inetBanking - Failure ScreenShot Captured
+2020-04-12 14:45:10,929 [main] INFO inetBanking - URL is opening
+2020-04-12 14:45:19,978 [main] INFO inetBanking - Entered Username
+2020-04-12 14:45:20,074 [main] INFO inetBanking - Entered Password
+2020-04-12 14:45:22,403 [main] INFO inetBanking - Clicked on submit button
+2020-04-12 22:24:20,707 [main] INFO inetBanking - URL is opening
+2020-04-12 22:24:31,555 [main] INFO inetBanking - Entered Username
+2020-04-12 22:24:31,640 [main] INFO inetBanking - Entered Password
+2020-04-12 22:24:34,498 [main] INFO inetBanking - Clicked on submit button
+2020-04-16 22:22:31,895 [main] INFO inetBanking - URL is opening
+2020-04-16 22:22:39,465 [main] INFO inetBanking - Entered Username
+2020-04-16 22:22:39,560 [main] INFO inetBanking - Entered Password
+2020-04-16 22:22:42,092 [main] INFO inetBanking - Clicked on submit button
+2020-04-16 22:22:55,412 [main] INFO inetBanking - URL is opening
+2020-04-16 22:26:04,943 [main] INFO inetBanking - URL is opening
+2020-04-16 22:27:00,038 [main] INFO inetBanking - Entered Username
+2020-04-16 22:27:00,179 [main] INFO inetBanking - Entered Password
+2020-04-16 22:27:02,927 [main] INFO inetBanking - Clicked on submit button
+2020-04-16 22:28:03,692 [main] INFO inetBanking - URL is opening
+2020-04-16 22:28:11,962 [main] INFO inetBanking - Entered Username
+2020-04-16 22:28:12,051 [main] INFO inetBanking - Entered Password
+2020-04-16 22:28:16,005 [main] INFO inetBanking - Clicked on submit button
+2020-04-16 22:28:16,030 [main] INFO inetBanking - Login Test Passed
+2020-04-16 22:30:09,094 [main] INFO inetBanking - URL is opening
+2020-04-16 22:30:17,645 [main] INFO inetBanking - Entered Username
+2020-04-16 22:30:17,739 [main] INFO inetBanking - Entered Password
+2020-04-16 22:30:20,833 [main] INFO inetBanking - Clicked on submit button
+2020-04-16 22:30:20,850 [main] INFO inetBanking - Login Test Passed
+2020-04-16 22:31:37,823 [main] INFO inetBanking - URL is opening
+2020-04-16 22:31:45,552 [main] INFO inetBanking - Entered Username
+2020-04-16 22:31:45,642 [main] INFO inetBanking - Entered Password
+2020-04-16 22:31:48,245 [main] INFO inetBanking - Clicked on submit button
+2020-04-16 22:31:48,262 [main] INFO inetBanking - Login Test Passed
+2020-04-16 22:38:44,100 [main] INFO inetBanking - URL is opening
+2020-04-16 22:39:43,139 [main] INFO inetBanking - Entered Username
+2020-04-16 22:39:43,317 [main] INFO inetBanking - Entered Password
+2020-04-16 22:39:44,390 [main] INFO inetBanking - Clicked on submit button
+2020-04-16 22:45:06,128 [main] INFO inetBanking - URL is opening
+2020-04-16 22:45:24,829 [main] INFO inetBanking - Entered Username
+2020-04-16 22:45:24,922 [main] INFO inetBanking - Entered Password
+2020-04-16 22:45:27,275 [main] INFO inetBanking - Clicked on submit button
+2020-04-16 22:45:27,287 [main] INFO inetBanking - Login Test Passed
+2020-04-16 22:48:15,258 [main] INFO inetBanking - URL is opening
+2020-04-16 22:48:28,356 [main] INFO inetBanking - Entered Username
+2020-04-16 22:48:28,458 [main] INFO inetBanking - Entered Password
+2020-04-16 22:48:30,646 [main] INFO inetBanking - Clicked on submit button
+2020-04-16 22:48:30,657 [main] INFO inetBanking - Login Test Passed
+2020-04-16 22:48:38,814 [main] INFO inetBanking - URL is opening
+2020-04-16 22:49:06,729 [main] INFO inetBanking - Entered Username
+2020-04-16 22:49:06,766 [main] INFO inetBanking - Entered Password
+2020-04-16 22:49:19,326 [main] INFO inetBanking - Clicked on submit button
+2020-04-16 22:49:19,334 [main] INFO inetBanking - Login Test Passed
+2020-04-16 22:50:07,862 [main] INFO inetBanking - URL is opening
+2020-04-16 22:50:18,524 [main] INFO inetBanking - Entered Username
+2020-04-16 22:50:18,711 [main] INFO inetBanking - Entered Password
+2020-04-16 22:50:21,351 [main] INFO inetBanking - Clicked on submit button
+2020-04-16 22:50:21,360 [main] INFO inetBanking - Login Test Passed
+2020-04-16 22:50:32,494 [main] INFO inetBanking - URL is opening
+2020-04-16 22:53:59,093 [main] INFO inetBanking - URL is opening
+2020-04-16 22:54:13,291 [main] INFO inetBanking - Entered Username
+2020-04-16 22:54:13,408 [main] INFO inetBanking - Entered Password
+2020-04-16 22:54:15,755 [main] INFO inetBanking - Clicked on submit button
+2020-04-16 22:54:15,767 [main] INFO inetBanking - Login Test Passed
+2020-04-17 13:05:41,436 [main] INFO inetBanking - URL is opening
+2020-04-17 13:06:16,231 [main] INFO inetBanking - Entered Username
+2020-04-17 13:06:16,383 [main] INFO inetBanking - Entered Password
+2020-04-17 13:06:25,345 [main] INFO inetBanking - Clicked on submit button
+2020-04-18 21:33:46,731 [main] INFO inetBanking - URL is opening
+2020-04-19 00:23:17,699 [main] INFO inetBanking - URL is opening
+2020-04-19 00:23:24,090 [main] INFO inetBanking - Entered Username
+2020-04-19 00:23:24,177 [main] INFO inetBanking - Entered Password
+2020-04-19 00:23:25,889 [main] INFO inetBanking - Clicked on submit button
+2020-04-19 00:23:25,899 [main] INFO inetBanking - Login Test Passed
+2020-04-19 00:30:22,129 [main] INFO inetBanking - URL is opening
+2020-04-19 00:30:34,998 [main] INFO inetBanking - Entered Username
+2020-04-19 00:30:35,032 [main] INFO inetBanking - Entered Password
+2020-04-19 00:30:41,385 [main] INFO inetBanking - Clicked on submit button
+2020-04-19 00:30:41,390 [main] INFO inetBanking - Login Test Passed
+2020-04-19 21:47:16,795 [main] INFO inetBanking - URL is opening
+2020-04-19 21:47:30,795 [main] INFO inetBanking - Entered Username
+2020-04-19 21:47:30,829 [main] INFO inetBanking - Entered Password
+2020-04-19 21:47:40,949 [main] INFO inetBanking - Clicked on submit button
+2020-04-19 21:47:40,957 [main] INFO inetBanking - Login Test Passed
+2020-04-20 21:32:45,942 [main] INFO inetBanking - URL is opening
+2020-04-20 21:32:58,179 [main] INFO inetBanking - user name provided
+2020-04-20 21:32:58,204 [main] INFO inetBanking - password provided
+2020-04-20 21:33:03,497 [main] INFO inetBanking - Login Passed
+2020-04-20 21:33:04,815 [main] INFO inetBanking - user name provided
+2020-04-20 21:33:04,852 [main] INFO inetBanking - password provided
+2020-04-20 21:33:07,794 [main] INFO inetBanking - user name provided
+2020-04-20 21:33:07,817 [main] INFO inetBanking - password provided
+2020-04-20 21:33:09,959 [main] INFO inetBanking - user name provided
+2020-04-20 21:33:09,981 [main] INFO inetBanking - password provided
+2020-04-20 21:33:12,010 [main] INFO inetBanking - user name provided
+2020-04-20 21:33:12,034 [main] INFO inetBanking - password provided
+2020-04-20 21:38:08,823 [main] INFO inetBanking - URL is opening
+2020-04-20 21:38:14,252 [main] INFO inetBanking - user name provided
+2020-04-20 21:38:14,318 [main] INFO inetBanking - password provided
+2020-04-20 21:38:22,779 [main] INFO inetBanking - Login Passed
+2020-04-20 21:38:25,924 [main] INFO inetBanking - user name provided
+2020-04-20 21:38:26,055 [main] INFO inetBanking - password provided
+2020-04-20 21:38:31,511 [main] INFO inetBanking - user name provided
+2020-04-20 21:38:31,600 [main] INFO inetBanking - password provided
+2020-04-20 21:38:37,328 [main] INFO inetBanking - user name provided
+2020-04-20 21:38:37,407 [main] INFO inetBanking - password provided
+2020-04-20 21:38:43,015 [main] INFO inetBanking - user name provided
+2020-04-20 21:38:43,088 [main] INFO inetBanking - password provided
+2020-04-20 21:40:21,911 [main] INFO inetBanking - URL is opening
+2020-04-20 21:40:27,610 [main] INFO inetBanking - user name provided
+2020-04-20 21:40:27,689 [main] INFO inetBanking - password provided
+2020-04-20 21:40:42,118 [main] INFO inetBanking - Login Passed
+2020-04-20 21:40:45,298 [main] INFO inetBanking - user name provided
+2020-04-20 21:40:45,384 [main] INFO inetBanking - password provided
+2020-04-20 21:40:51,244 [main] WARN inetBanking - Login failed
+2020-04-20 21:40:51,372 [main] INFO inetBanking - user name provided
+2020-04-20 21:40:51,455 [main] INFO inetBanking - password provided
+2020-04-20 21:40:56,628 [main] WARN inetBanking - Login failed
+2020-04-20 21:40:56,736 [main] INFO inetBanking - user name provided
+2020-04-20 21:40:56,820 [main] INFO inetBanking - password provided
+2020-04-20 21:41:02,459 [main] WARN inetBanking - Login failed
+2020-04-20 21:41:02,570 [main] INFO inetBanking - user name provided
+2020-04-20 21:41:02,646 [main] INFO inetBanking - password provided
+2020-04-20 21:41:08,099 [main] WARN inetBanking - Login failed
+2020-04-20 21:43:28,128 [main] INFO inetBanking - URL is opening
+2020-04-20 21:43:33,298 [main] INFO inetBanking - user name provided
+2020-04-20 21:43:33,363 [main] INFO inetBanking - password provided
+2020-04-20 21:43:41,253 [main] INFO inetBanking - Login Passed
+2020-04-20 21:43:44,397 [main] INFO inetBanking - user name provided
+2020-04-20 21:43:44,491 [main] INFO inetBanking - password provided
+2020-04-20 21:43:49,684 [main] WARN inetBanking - Login failed
+2020-04-20 21:43:49,807 [main] INFO inetBanking - user name provided
+2020-04-20 21:43:49,892 [main] INFO inetBanking - password provided
+2020-04-20 21:43:55,142 [main] WARN inetBanking - Login failed
+2020-04-20 21:43:55,241 [main] INFO inetBanking - user name provided
+2020-04-20 21:43:55,317 [main] INFO inetBanking - password provided
+2020-04-20 21:45:24,087 [main] INFO inetBanking - URL is opening
+2020-04-20 21:45:29,063 [main] INFO inetBanking - user name provided
+2020-04-20 21:45:29,147 [main] INFO inetBanking - password provided
+2020-04-20 21:45:37,835 [main] INFO inetBanking - Login Passed
+2020-04-20 21:45:41,020 [main] INFO inetBanking - user name provided
+2020-04-20 21:45:41,115 [main] INFO inetBanking - password provided
+2020-04-20 21:45:46,585 [main] WARN inetBanking - Login failed
+2020-04-20 21:45:46,703 [main] INFO inetBanking - user name provided
+2020-04-20 21:45:46,790 [main] INFO inetBanking - password provided
+2020-04-20 21:45:52,660 [main] WARN inetBanking - Login failed
+2020-04-20 21:45:52,762 [main] INFO inetBanking - user name provided
+2020-04-20 21:45:52,841 [main] INFO inetBanking - password provided
+2020-04-20 21:46:01,237 [main] INFO inetBanking - Login Passed
+2020-04-20 21:46:04,376 [main] INFO inetBanking - user name provided
+2020-04-20 21:46:04,480 [main] INFO inetBanking - password provided
+2020-04-20 21:46:09,994 [main] WARN inetBanking - Login failed
+2020-04-20 23:00:31,919 [main] INFO inetBanking - URL is opening
+2020-04-20 23:00:40,702 [main] INFO inetBanking - User name is provided
+2020-04-20 23:00:40,800 [main] INFO inetBanking - Passsword is provided
+2020-04-20 23:00:46,220 [main] INFO inetBanking - providing customer details....
+2020-04-20 23:00:56,773 [main] INFO inetBanking - validation started....
+2020-04-20 23:00:56,788 [main] INFO inetBanking - test case passed....
+2020-04-20 23:03:40,287 [main] INFO inetBanking - URL is opening
+2020-04-20 23:03:49,497 [main] INFO inetBanking - User name is provided
+2020-04-20 23:03:49,592 [main] INFO inetBanking - Passsword is provided
+2020-04-20 23:05:05,405 [main] INFO inetBanking - URL is opening
+2020-04-20 23:05:13,908 [main] INFO inetBanking - User name is provided
+2020-04-20 23:05:13,998 [main] INFO inetBanking - Passsword is provided
+2020-04-20 23:05:19,757 [main] INFO inetBanking - providing customer details....
+2020-04-20 23:05:30,253 [main] INFO inetBanking - validation started....
+2020-04-20 23:05:30,269 [main] INFO inetBanking - test case passed....
+2020-04-20 23:07:25,892 [main] INFO inetBanking - URL is opening
+2020-04-20 23:07:35,053 [main] INFO inetBanking - User name is provided
+2020-04-20 23:07:35,149 [main] INFO inetBanking - Passsword is provided
+2020-04-20 23:07:41,126 [main] INFO inetBanking - providing customer details....
+2020-04-20 23:07:51,517 [main] INFO inetBanking - validation started....
+2020-04-20 23:07:51,531 [main] INFO inetBanking - test case passed....
+2020-04-20 23:09:08,650 [main] INFO inetBanking - URL is opening
+2020-04-20 23:09:17,368 [main] INFO inetBanking - Entered Username
+2020-04-20 23:09:17,458 [main] INFO inetBanking - Entered Password
+2020-04-20 23:09:19,373 [main] INFO inetBanking - Clicked on submit button
+2020-04-20 23:09:19,383 [main] INFO inetBanking - Login Test Passed
+2020-04-20 23:09:30,091 [main] INFO inetBanking - URL is opening
+2020-04-20 23:09:42,760 [main] INFO inetBanking - user name provided
+2020-04-20 23:09:42,830 [main] INFO inetBanking - password provided
+2020-04-20 23:09:53,265 [main] INFO inetBanking - Login Passed
+2020-04-20 23:09:56,344 [main] INFO inetBanking - user name provided
+2020-04-20 23:09:56,407 [main] INFO inetBanking - password provided
+2020-04-20 23:10:02,155 [main] WARN inetBanking - Login failed
+2020-04-20 23:10:02,243 [main] INFO inetBanking - user name provided
+2020-04-20 23:10:02,311 [main] INFO inetBanking - password provided
+2020-04-20 23:10:08,559 [main] WARN inetBanking - Login failed
+2020-04-20 23:10:08,700 [main] INFO inetBanking - user name provided
+2020-04-20 23:10:08,803 [main] INFO inetBanking - password provided
+2020-04-20 23:10:19,167 [main] INFO inetBanking - Login Passed
+2020-04-20 23:10:22,268 [main] INFO inetBanking - user name provided
+2020-04-20 23:10:22,358 [main] INFO inetBanking - password provided
+2020-04-20 23:10:28,158 [main] WARN inetBanking - Login failed
+2020-04-20 23:10:38,985 [main] INFO inetBanking - URL is opening
+2020-04-20 23:10:53,463 [main] INFO inetBanking - User name is provided
+2020-04-20 23:10:53,553 [main] INFO inetBanking - Passsword is provided
+2020-04-20 23:10:59,644 [main] INFO inetBanking - providing customer details....
+2020-04-20 23:11:10,370 [main] INFO inetBanking - validation started....
+2020-04-20 23:11:10,382 [main] INFO inetBanking - test case passed....
+2020-04-20 23:13:33,314 [main] INFO inetBanking - URL is opening
+2020-04-20 23:13:43,112 [main] INFO inetBanking - user name provided
+2020-04-20 23:13:43,175 [main] INFO inetBanking - password provided
+2020-04-20 23:13:48,350 [main] WARN inetBanking - Login failed
+2020-04-20 23:13:48,441 [main] INFO inetBanking - user name provided
+2020-04-20 23:13:48,509 [main] INFO inetBanking - password provided
+2020-04-20 23:13:53,950 [main] WARN inetBanking - Login failed
+2020-04-20 23:13:54,041 [main] INFO inetBanking - user name provided
+2020-04-20 23:13:54,109 [main] INFO inetBanking - password provided
+2020-04-20 23:13:59,527 [main] WARN inetBanking - Login failed
+2020-04-21 18:20:50,999 [main] INFO inetBanking - URL is opening
+2020-04-21 18:21:01,371 [main] INFO inetBanking - Entered Username
+2020-04-21 18:21:01,461 [main] INFO inetBanking - Entered Password
+2020-04-21 18:21:03,366 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 18:21:03,376 [main] INFO inetBanking - Login Test Passed
+2020-04-21 18:21:14,132 [main] INFO inetBanking - URL is opening
+2020-04-21 18:21:24,168 [main] INFO inetBanking - user name provided
+2020-04-21 18:21:24,237 [main] INFO inetBanking - password provided
+2020-04-21 18:21:33,035 [main] INFO inetBanking - Login Passed
+2020-04-21 18:21:36,137 [main] INFO inetBanking - user name provided
+2020-04-21 18:21:36,220 [main] INFO inetBanking - password provided
+2020-04-21 18:21:41,703 [main] WARN inetBanking - Login failed
+2020-04-21 18:21:41,828 [main] INFO inetBanking - user name provided
+2020-04-21 18:21:41,914 [main] INFO inetBanking - password provided
+2020-04-21 18:21:48,190 [main] WARN inetBanking - Login failed
+2020-04-21 18:21:48,291 [main] INFO inetBanking - user name provided
+2020-04-21 18:21:48,364 [main] INFO inetBanking - password provided
+2020-04-21 18:21:55,450 [main] INFO inetBanking - Login Passed
+2020-04-21 18:21:58,559 [main] INFO inetBanking - user name provided
+2020-04-21 18:21:58,645 [main] INFO inetBanking - password provided
+2020-04-21 18:22:03,970 [main] WARN inetBanking - Login failed
+2020-04-21 18:22:14,626 [main] INFO inetBanking - URL is opening
+2020-04-21 18:22:24,006 [main] INFO inetBanking - User name is provided
+2020-04-21 18:22:24,096 [main] INFO inetBanking - Passsword is provided
+2020-04-21 18:22:29,573 [main] INFO inetBanking - providing customer details....
+2020-04-21 18:22:40,069 [main] INFO inetBanking - validation started....
+2020-04-21 18:22:40,081 [main] INFO inetBanking - test case passed....
+2020-04-21 18:26:26,608 [main] INFO inetBanking - URL is opening
+2020-04-21 18:26:37,241 [main] INFO inetBanking - Entered Username
+2020-04-21 18:26:37,333 [main] INFO inetBanking - Entered Password
+2020-04-21 18:26:39,087 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 18:26:39,098 [main] INFO inetBanking - Login Test Passed
+2020-04-21 18:26:49,939 [main] INFO inetBanking - URL is opening
+2020-04-21 18:27:00,631 [main] INFO inetBanking - user name provided
+2020-04-21 18:27:00,733 [main] INFO inetBanking - password provided
+2020-04-21 18:27:08,900 [main] INFO inetBanking - Login Passed
+2020-04-21 18:27:12,000 [main] INFO inetBanking - user name provided
+2020-04-21 18:27:12,078 [main] INFO inetBanking - password provided
+2020-04-21 18:27:17,772 [main] WARN inetBanking - Login failed
+2020-04-21 18:27:17,883 [main] INFO inetBanking - user name provided
+2020-04-21 18:27:17,979 [main] INFO inetBanking - password provided
+2020-04-21 18:27:23,317 [main] WARN inetBanking - Login failed
+2020-04-21 18:27:23,431 [main] INFO inetBanking - user name provided
+2020-04-21 18:27:23,519 [main] INFO inetBanking - password provided
+2020-04-21 18:27:31,544 [main] INFO inetBanking - Login Passed
+2020-04-21 18:27:34,652 [main] INFO inetBanking - user name provided
+2020-04-21 18:27:34,738 [main] INFO inetBanking - password provided
+2020-04-21 18:27:40,944 [main] WARN inetBanking - Login failed
+2020-04-21 18:27:52,115 [main] INFO inetBanking - URL is opening
+2020-04-21 18:28:01,589 [main] INFO inetBanking - User name is provided
+2020-04-21 18:28:01,680 [main] INFO inetBanking - Passsword is provided
+2020-04-21 18:28:10,300 [main] INFO inetBanking - providing customer details....
+2020-04-21 18:28:23,534 [main] INFO inetBanking - validation started....
+2020-04-21 18:28:23,546 [main] INFO inetBanking - test case passed....
+2020-04-21 19:09:13,218 [main] INFO inetBanking - URL is opening
+2020-04-21 19:09:23,409 [main] INFO inetBanking - Entered Username
+2020-04-21 19:09:23,488 [main] INFO inetBanking - Entered Password
+2020-04-21 19:09:25,338 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 19:09:25,348 [main] INFO inetBanking - Login Test Passed
+2020-04-21 19:09:36,107 [main] INFO inetBanking - URL is opening
+2020-04-21 19:09:47,403 [main] INFO inetBanking - user name provided
+2020-04-21 19:09:47,462 [main] INFO inetBanking - password provided
+2020-04-21 19:09:56,859 [main] INFO inetBanking - Login Passed
+2020-04-21 19:09:59,930 [main] INFO inetBanking - user name provided
+2020-04-21 19:10:00,003 [main] INFO inetBanking - password provided
+2020-04-21 19:10:05,039 [main] WARN inetBanking - Login failed
+2020-04-21 19:10:05,138 [main] INFO inetBanking - user name provided
+2020-04-21 19:10:05,205 [main] INFO inetBanking - password provided
+2020-04-21 19:10:10,542 [main] WARN inetBanking - Login failed
+2020-04-21 19:10:10,626 [main] INFO inetBanking - user name provided
+2020-04-21 19:10:10,698 [main] INFO inetBanking - password provided
+2020-04-21 19:10:19,560 [main] INFO inetBanking - Login Passed
+2020-04-21 19:10:22,666 [main] INFO inetBanking - user name provided
+2020-04-21 19:10:22,749 [main] INFO inetBanking - password provided
+2020-04-21 19:10:27,576 [main] WARN inetBanking - Login failed
+2020-04-21 19:10:38,316 [main] INFO inetBanking - URL is opening
+2020-04-21 19:10:48,490 [main] INFO inetBanking - User name is provided
+2020-04-21 19:10:48,588 [main] INFO inetBanking - Passsword is provided
+2020-04-21 19:10:54,298 [main] INFO inetBanking - providing customer details....
+2020-04-21 19:11:05,638 [main] INFO inetBanking - validation started....
+2020-04-21 19:11:05,649 [main] INFO inetBanking - test case passed....
+2020-04-21 19:12:59,929 [main] INFO inetBanking - URL is opening
+2020-04-21 19:13:09,589 [main] INFO inetBanking - Entered Username
+2020-04-21 19:13:09,690 [main] INFO inetBanking - Entered Password
+2020-04-21 19:13:11,411 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 19:13:11,423 [main] INFO inetBanking - Login Test Passed
+2020-04-21 19:13:22,258 [main] INFO inetBanking - URL is opening
+2020-04-21 19:13:33,194 [main] INFO inetBanking - User name is provided
+2020-04-21 19:13:33,278 [main] INFO inetBanking - Passsword is provided
+2020-04-21 19:13:39,360 [main] INFO inetBanking - providing customer details....
+2020-04-21 19:13:50,382 [main] INFO inetBanking - validation started....
+2020-04-21 19:13:50,396 [main] INFO inetBanking - test case passed....
+2020-04-21 21:17:07,170 [main] INFO inetBanking - URL is opening
+2020-04-21 21:17:40,693 [main] INFO inetBanking - Entered Username
+2020-04-21 21:17:40,778 [main] INFO inetBanking - Entered Password
+2020-04-21 21:17:43,734 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 21:17:43,754 [main] INFO inetBanking - Login Test Passed
+2020-04-21 21:17:56,375 [main] INFO inetBanking - URL is opening
+2020-04-21 21:18:03,275 [main] INFO inetBanking - User name is provided
+2020-04-21 21:18:03,411 [main] INFO inetBanking - Passsword is provided
+2020-04-21 21:18:14,001 [main] INFO inetBanking - providing customer details....
+2020-04-21 21:18:26,440 [main] INFO inetBanking - validation started....
+2020-04-21 21:18:26,489 [main] INFO inetBanking - test case passed....
+2020-04-21 21:35:06,787 [main] INFO inetBanking - URL is opening
+2020-04-21 21:35:11,763 [main] INFO inetBanking - Entered Username
+2020-04-21 21:35:11,848 [main] INFO inetBanking - Entered Password
+2020-04-21 21:35:13,858 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 21:35:13,866 [main] INFO inetBanking - Login Test Passed
+2020-04-21 21:35:24,801 [main] INFO inetBanking - URL is opening
+2020-04-21 21:35:31,264 [main] INFO inetBanking - User name is provided
+2020-04-21 21:35:31,366 [main] INFO inetBanking - Passsword is provided
+2020-04-21 21:37:05,336 [main] INFO inetBanking - URL is opening
+2020-04-21 21:37:12,600 [main] INFO inetBanking - Entered Username
+2020-04-21 21:37:12,696 [main] INFO inetBanking - Entered Password
+2020-04-21 21:37:14,777 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 21:37:14,788 [main] INFO inetBanking - Login Test Passed
+2020-04-21 21:37:26,762 [main] INFO inetBanking - URL is opening
+2020-04-21 21:37:32,586 [main] INFO inetBanking - User name is provided
+2020-04-21 21:37:32,694 [main] INFO inetBanking - Passsword is provided
+2020-04-21 21:39:44,410 [main] INFO inetBanking - URL is opening
+2020-04-21 21:39:49,092 [main] INFO inetBanking - Entered Username
+2020-04-21 21:39:49,176 [main] INFO inetBanking - Entered Password
+2020-04-21 21:39:51,176 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 21:39:51,186 [main] INFO inetBanking - Login Test Passed
+2020-04-21 21:40:01,931 [main] INFO inetBanking - URL is opening
+2020-04-21 21:40:07,526 [main] INFO inetBanking - User name is provided
+2020-04-21 21:40:07,614 [main] INFO inetBanking - Passsword is provided
+2020-04-21 21:42:26,796 [main] INFO inetBanking - URL is opening
+2020-04-21 21:42:32,842 [main] INFO inetBanking - Entered Username
+2020-04-21 21:42:32,939 [main] INFO inetBanking - Entered Password
+2020-04-21 21:42:35,349 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 21:42:35,361 [main] INFO inetBanking - Login Test Passed
+2020-04-21 21:42:46,133 [main] INFO inetBanking - URL is opening
+2020-04-21 21:43:46,960 [main] INFO inetBanking - User name is provided
+2020-04-21 21:43:47,064 [main] INFO inetBanking - Passsword is provided
+2020-04-21 21:46:10,298 [main] INFO inetBanking - URL is opening
+2020-04-21 21:46:17,196 [main] INFO inetBanking - User name is provided
+2020-04-21 21:46:17,267 [main] INFO inetBanking - Passsword is provided
+2020-04-21 22:16:50,802 [main] INFO inetBanking - URL is opening
+2020-04-21 22:16:56,854 [main] INFO inetBanking - User name is provided
+2020-04-21 22:16:56,946 [main] INFO inetBanking - Passsword is provided
+2020-04-21 22:24:40,739 [main] INFO inetBanking - URL is opening
+2020-04-21 22:24:46,756 [main] INFO inetBanking - User name is provided
+2020-04-21 22:24:46,844 [main] INFO inetBanking - Passsword is provided
+2020-04-21 22:26:13,257 [main] INFO inetBanking - URL is opening
+2020-04-21 22:26:18,485 [main] INFO inetBanking - User name is provided
+2020-04-21 22:26:18,572 [main] INFO inetBanking - Passsword is provided
+2020-04-21 22:28:43,562 [main] INFO inetBanking - URL is opening
+2020-04-21 22:28:48,335 [main] INFO inetBanking - User name is provided
+2020-04-21 22:28:48,424 [main] INFO inetBanking - Passsword is provided
+2020-04-21 22:28:55,169 [main] INFO inetBanking - providing customer details....
+2020-04-21 22:29:06,098 [main] INFO inetBanking - validation started....
+2020-04-21 22:29:06,114 [main] INFO inetBanking - test case passed....
+2020-04-21 22:30:41,842 [main] INFO inetBanking - URL is opening
+2020-04-21 22:30:47,209 [main] INFO inetBanking - User name is provided
+2020-04-21 22:30:47,313 [main] INFO inetBanking - Passsword is provided
+2020-04-21 22:31:36,565 [main] INFO inetBanking - URL is opening
+2020-04-21 22:31:45,031 [main] INFO inetBanking - User name is provided
+2020-04-21 22:31:45,113 [main] INFO inetBanking - Passsword is provided
+2020-04-21 22:31:52,301 [main] INFO inetBanking - providing customer details....
+2020-04-21 22:32:03,984 [main] INFO inetBanking - validation started....
+2020-04-21 22:32:04,003 [main] INFO inetBanking - test case passed....
+2020-04-21 22:35:36,809 [main] INFO inetBanking - URL is opening
+2020-04-21 22:35:46,953 [main] INFO inetBanking - User name is provided
+2020-04-21 22:35:47,044 [main] INFO inetBanking - Passsword is provided
+2020-04-21 23:36:43,062 [main] INFO inetBanking - URL is opening
+2020-04-21 23:36:47,985 [main] INFO inetBanking - Entered Username
+2020-04-21 23:36:48,073 [main] INFO inetBanking - Entered Password
+2020-04-21 23:36:52,015 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 23:36:52,024 [main] INFO inetBanking - Login Test Passed
+2020-04-21 23:38:56,126 [main] INFO inetBanking - URL is opening
+2020-04-21 23:39:01,328 [main] INFO inetBanking - Entered Username
+2020-04-21 23:39:01,404 [main] INFO inetBanking - Entered Password
+2020-04-21 23:39:03,671 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 23:39:03,678 [main] INFO inetBanking - Login Test Passed
+2020-04-21 23:43:38,218 [main] INFO inetBanking - URL is opening
+2020-04-21 23:43:44,531 [main] INFO inetBanking - Entered Username
+2020-04-21 23:43:44,587 [main] INFO inetBanking - Entered Password
+2020-04-21 23:43:46,950 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 23:43:46,958 [main] INFO inetBanking - Login Test Passed
+2020-04-21 23:46:25,358 [main] INFO inetBanking - URL is opening
+2020-04-21 23:46:31,423 [main] INFO inetBanking - Entered Username
+2020-04-21 23:46:31,538 [main] INFO inetBanking - Entered Password
+2020-04-21 23:46:33,765 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 23:46:33,774 [main] INFO inetBanking - Login Test Passed
+2020-04-21 23:48:09,569 [main] INFO inetBanking - URL is opening
+2020-04-21 23:48:15,146 [main] INFO inetBanking - Entered Username
+2020-04-21 23:48:15,231 [main] INFO inetBanking - Entered Password
+2020-04-21 23:48:17,188 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 23:48:17,198 [main] INFO inetBanking - Login Test Passed
+2020-04-21 23:48:28,944 [main] INFO inetBanking - URL is opening
+2020-04-21 23:48:44,829 [main] INFO inetBanking - User name is provided
+2020-04-21 23:48:44,903 [main] INFO inetBanking - Passsword is provided
+2020-04-21 23:48:51,519 [main] INFO inetBanking - providing customer details....
+2020-04-21 23:49:02,748 [main] INFO inetBanking - validation started....
+2020-04-21 23:49:02,786 [main] INFO inetBanking - test case passed....
+2020-04-21 23:50:02,366 [main] INFO inetBanking - URL is opening
+2020-04-21 23:50:08,111 [main] INFO inetBanking - Entered Username
+2020-04-21 23:50:08,192 [main] INFO inetBanking - Entered Password
+2020-04-21 23:50:12,261 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 23:50:12,267 [main] INFO inetBanking - Login Test Passed
+2020-04-21 23:50:24,546 [main] INFO inetBanking - URL is opening
+2020-04-21 23:50:31,093 [main] INFO inetBanking - user name provided
+2020-04-21 23:50:31,177 [main] INFO inetBanking - password provided
+2020-04-21 23:50:40,211 [main] INFO inetBanking - Login Passed
+2020-04-21 23:50:43,284 [main] INFO inetBanking - user name provided
+2020-04-21 23:50:43,346 [main] INFO inetBanking - password provided
+2020-04-21 23:50:49,503 [main] WARN inetBanking - Login failed
+2020-04-21 23:50:49,568 [main] INFO inetBanking - user name provided
+2020-04-21 23:50:49,626 [main] INFO inetBanking - password provided
+2020-04-21 23:50:55,543 [main] WARN inetBanking - Login failed
+2020-04-21 23:50:55,609 [main] INFO inetBanking - user name provided
+2020-04-21 23:50:55,665 [main] INFO inetBanking - password provided
+2020-04-21 23:51:14,804 [main] INFO inetBanking - URL is opening
+2020-04-21 23:51:20,399 [main] INFO inetBanking - User name is provided
+2020-04-21 23:51:20,470 [main] INFO inetBanking - Passsword is provided
+2020-04-21 23:51:26,700 [main] INFO inetBanking - providing customer details....
+2020-04-21 23:51:37,144 [main] INFO inetBanking - validation started....
+2020-04-21 23:51:37,161 [main] INFO inetBanking - test case passed....
+2020-04-21 23:53:25,549 [main] INFO inetBanking - URL is opening
+2020-04-21 23:53:30,956 [main] INFO inetBanking - Entered Username
+2020-04-21 23:53:31,015 [main] INFO inetBanking - Entered Password
+2020-04-21 23:53:32,836 [main] INFO inetBanking - Clicked on submit button
+2020-04-21 23:53:32,842 [main] INFO inetBanking - Login Test Passed
+2020-04-21 23:53:44,766 [main] INFO inetBanking - URL is opening
+2020-04-21 23:53:49,889 [main] INFO inetBanking - User name is provided
+2020-04-21 23:53:49,978 [main] INFO inetBanking - Passsword is provided
+2020-04-21 23:53:55,747 [main] INFO inetBanking - providing customer details....
+2020-04-21 23:54:07,123 [main] INFO inetBanking - validation started....
+2020-04-21 23:54:07,135 [main] INFO inetBanking - test case passed....
+2020-04-22 00:04:51,258 [main] INFO inetBanking - URL is opening
+2020-04-22 00:05:01,725 [main] INFO inetBanking - Entered Username
+2020-04-22 00:05:01,822 [main] INFO inetBanking - Entered Password
+2020-04-22 00:05:03,699 [main] INFO inetBanking - Clicked on submit button
+2020-04-22 00:05:03,708 [main] INFO inetBanking - Login Test Passed
+2020-04-22 00:05:14,497 [main] INFO inetBanking - URL is opening
+2020-04-22 00:05:23,924 [main] INFO inetBanking - User name is provided
+2020-04-22 00:05:24,022 [main] INFO inetBanking - Passsword is provided
+2020-04-22 12:13:29,134 [main] INFO inetBanking - URL is opening
+2020-04-22 12:13:38,303 [main] INFO inetBanking - Entered Username
+2020-04-22 12:13:38,396 [main] INFO inetBanking - Entered Password
+2020-04-22 12:13:40,273 [main] INFO inetBanking - Clicked on submit button
+2020-04-22 12:13:40,282 [main] INFO inetBanking - Login Test Passed
+2020-04-22 12:13:51,294 [main] INFO inetBanking - URL is opening
+2020-04-22 12:14:00,635 [main] INFO inetBanking - User name is provided
+2020-04-22 12:14:00,731 [main] INFO inetBanking - Passsword is provided
+2020-04-22 12:15:57,558 [main] INFO inetBanking - URL is opening
+2020-04-22 12:16:08,179 [main] INFO inetBanking - Entered Username
+2020-04-22 12:16:08,253 [main] INFO inetBanking - Entered Password
+2020-04-22 12:16:09,790 [main] INFO inetBanking - Clicked on submit button
+2020-04-22 12:16:09,798 [main] INFO inetBanking - Login Test Passed
+2020-04-22 12:16:22,070 [main] INFO inetBanking - URL is opening
+2020-04-22 12:16:31,332 [main] INFO inetBanking - User name is provided
+2020-04-22 12:16:31,406 [main] INFO inetBanking - Passsword is provided
+2020-04-22 12:16:37,042 [main] INFO inetBanking - providing customer details....
+2020-04-22 12:16:47,339 [main] INFO inetBanking - validation started....
+2020-04-22 12:16:47,349 [main] INFO inetBanking - test case passed....
+2020-04-22 21:00:42,124 [main] INFO inetBanking - URL is opening
+2020-04-22 21:01:04,362 [main] INFO inetBanking - URL is opening
+2020-04-22 21:01:16,715 [main] INFO inetBanking - User name is provided
+2020-04-22 21:01:16,795 [main] INFO inetBanking - Passsword is provided
+2020-04-22 21:01:22,812 [main] INFO inetBanking - providing customer details....
+2020-04-22 21:01:33,569 [main] INFO inetBanking - validation started....
+2020-04-22 21:01:33,581 [main] INFO inetBanking - test case passed....
+2020-04-22 21:02:47,478 [main] INFO inetBanking - URL is opening
+2020-04-22 21:03:00,082 [main] INFO inetBanking - Entered Username
+2020-04-22 21:03:00,156 [main] INFO inetBanking - Entered Password
+2020-04-22 21:03:00,761 [main] INFO inetBanking - Clicked on submit button
+2020-04-22 21:03:14,129 [main] INFO inetBanking - URL is opening
+2020-04-22 21:03:19,387 [main] INFO inetBanking - User name is provided
+2020-04-22 21:03:19,446 [main] INFO inetBanking - Passsword is provided
+2020-04-22 21:03:26,031 [main] INFO inetBanking - providing customer details....
+2020-04-22 21:03:36,968 [main] INFO inetBanking - validation started....
+2020-04-22 21:03:36,979 [main] INFO inetBanking - test case passed....
+2020-04-22 21:05:59,274 [main] INFO inetBanking - URL is opening
+2020-04-22 21:06:24,148 [main] INFO inetBanking - Entered Username
+2020-04-22 21:06:33,707 [main] INFO inetBanking - Entered Password
+2020-04-22 21:07:30,310 [main] INFO inetBanking - URL is opening
+2020-04-22 21:07:36,843 [main] INFO inetBanking - User name is provided
+2020-04-22 21:07:36,912 [main] INFO inetBanking - Passsword is provided
+2020-04-22 21:07:43,430 [main] INFO inetBanking - providing customer details....
+2020-04-22 21:07:54,659 [main] INFO inetBanking - validation started....
+2020-04-22 21:07:54,671 [main] INFO inetBanking - test case passed....
+2020-04-22 21:08:45,252 [main] INFO inetBanking - URL is opening
+2020-04-22 21:08:51,103 [main] INFO inetBanking - Entered Username
+2020-04-22 21:08:51,168 [main] INFO inetBanking - Entered Password
+2020-04-22 21:08:53,128 [main] INFO inetBanking - Clicked on submit button
+2020-04-22 21:08:53,137 [main] INFO inetBanking - Login Test Passed
+2020-04-22 21:09:04,299 [main] INFO inetBanking - URL is opening
+2020-04-22 21:09:10,860 [main] INFO inetBanking - User name is provided
+2020-04-22 21:09:10,917 [main] INFO inetBanking - Passsword is provided
+2020-04-22 21:09:17,147 [main] INFO inetBanking - providing customer details....
+2020-04-22 21:09:26,963 [main] INFO inetBanking - validation started....
+2020-04-22 21:09:26,974 [main] INFO inetBanking - test case passed....
